@@ -34,7 +34,7 @@ public class Hello
     Calculator obj1 = new Calculator();
     //Claculator obj2 = new Calculator();
     //int result = obj.add(num1,num2);
-    String str = obj1.getMeAPen(12);
+    String str = obj1.getMeAPen(9);
     obj1.playMusic();
    System.out.println(str);
     //System.out.println(result);
