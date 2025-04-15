@@ -9,13 +9,18 @@ public class Array {
       num [2] = 3;
       num [3] = 20;
       num [4] = 10;
-      for (int i=0; i<5; i++)
-      {
+     // for (int i=0; i<5; i++)
+     // {
         //for (int element : num)
-      System.out.println(num[i]);
+      //System.out.println(num[i]);
       //System.out.println(element);
 
       //String student[] = new String [];  
+     // }
+      for (int n : num)
+      {
+        System.out.println(n);
       }
+
     }
   }
