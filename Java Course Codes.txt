@@ -1,3 +1,5 @@
+INTRODUCTION TO METHODS
+
 class Calculator
 {
     int a;
@@ -23,6 +25,7 @@ public static void main(String a[])
 
 
 ----------------------------------------------------------
+EXAMPLE FOR WHILE LOOP
 
 public class Hello 
 {
@@ -44,6 +47,8 @@ public static void main(String a[])
 }
 
 -------------------------------------------------------------------------------------
+Loops USING METHODS
+
 import javax.lang.model.util.ElementScanner14;
 
 class Computer
@@ -76,6 +81,8 @@ public static void main(String a[])
 }
 
 -------------------------------------------------------------------------
+METHOD OVERLOADING
+
 
 class Calculator
 {
@@ -105,7 +112,7 @@ public static void main(String a[])
 }
 
 ---------------------------------------------------------------------------
-
+UPDATING THE VALUE OF THE VARIABLE WHILE PRINTING
 
 class Calculator
 {
@@ -131,7 +138,7 @@ public static void main(String a[])
 }
 
 -----------------------------------------------------------------------------------------------
-
+FOR LOOP
 
     public class Hello 
 {   
@@ -151,6 +158,8 @@ public static void main(String a[])
 }
 
 -----------------------------------------------------------------------------
+creating and adding random values with the help of methods
+
 
     public class Hello 
 {   
@@ -182,6 +191,8 @@ public static void main(String a[])
 
 
 ------------------------------------------------------------------------------------
+generation random 3 by 4 matrix by using methods with array
+
 
 public class Hello 
 {   
