@@ -1,3 +1,4 @@
+/* 
 import java.io.IOException;
 import java.net.SocketPermission;
 
@@ -11,16 +12,16 @@ public class BufferReader
    System.out.println(num-48);
   }
 }   
-
+*/
 
 ---------------------------------------------------------------------------------------
-/* 
+ 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.SocketPermission;
 
-public class Hello
+public class BufferReader
 {
   
   public static void main(String a[]) throws IOException
@@ -34,4 +35,4 @@ public class Hello
    bf.close();
   }
 }   
-*/
+
