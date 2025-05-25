@@ -4,6 +4,13 @@ public class Sudoku {
         Set<Character>[] colSet = new Hashset[9];
         Set<Character>[] gridSet = new Hashset[9];
 
+        for(int i = 0;i<9; i++){
+            rowSet[i] = new HashSet<>();
+            colSet[i] = new HashSet<>();
+            gridSet[i] = new HashSet<>();
+
+        }
+
         for (int i = 0;i<9;i++){
             for (int j=0;j<9;j++){
                 int gridNo  = (i/3)*3+(j/3);
